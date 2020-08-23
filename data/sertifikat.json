@@ -1,0 +1,144 @@
+[
+  {
+    "id": "foto11",
+    "nama": "Adobe Illustrator",
+    "src": "portfolio/full/sertifikat/ai.jpg",
+    "prev": "foto10",
+    "next": "foto1"
+  },
+  {
+    "id": "foto11",
+    "nama": "Adobe Photoshop",
+    "src": "portfolio/full/sertifikat/ps.jpg",
+    "prev": "foto10",
+    "next": "foto1"
+  },
+  {
+    "id": "foto6",
+    "nama": "PHP",
+    "urlFull": "portfolio/thumb/sertifikat/s.jpg",
+    "src": "portfolio/full/sertifikat/s.jpg",
+    "prev": "foto5",
+    "next": "foto7"
+  },
+  {
+    "id": "foto6",
+    "nama": "CodeIgniter",
+    "urlFull": "portfolio/thumb/sertifikat/ci.jpg",
+    "src": "portfolio/full/sertifikat/ci.jpg",
+    "prev": "foto5",
+    "next": "foto7"
+  },
+  {
+    "id": "foto6",
+    "nama": "javascript",
+    "urlFull": "portfolio/thumb/sertifikat/js.jpg",
+    "src": "portfolio/full/sertifikat/js.jpg",
+    "prev": "foto5",
+    "next": "foto7"
+  },
+  {
+    "id": "foto6",
+    "nama": "Html dan Css3",
+    "urlFull": "portfolio/thumb/sertifikat/html-css3.jpg",
+    "src": "portfolio/full/sertifikat/html-css3.jpg",
+    "prev": "foto5",
+    "next": "foto7"
+  },
+  {
+    "id": "foto6",
+    "nama": "Codeigniter dan mysql",
+    "urlFull": "portfolio/thumb/sertifikat/php-mysql-ci.jpg",
+    "src": "portfolio/full/sertifikat/php-mysql-ci.jpg",
+    "prev": "foto5",
+    "next": "foto7"
+  },
+  {
+    "id": "foto6",
+    "nama": "Php dan mysql",
+    "urlFull": "portfolio/thumb/sertifikat/php-mysql.jpg",
+    "src": "portfolio/full/sertifikat/php-mysql-ci.jpg",
+    "prev": "foto5",
+    "next": "foto7"
+  },
+  {
+    "id": "foto1",
+    "nama": "Dekstop & Web",
+    "urlFull": "portfolio/thumb/sertifikat/destop.jpg",
+    "src": "portfolio/full/sertifikat/destop.jpg",
+    "prev": "foto11",
+    "next": "foto2"
+  },
+  {
+    "id": "foto2",
+    "nama": "Instalasi PC",
+    "urlFull": "portfolio/thumb/sertifikat/instal.jpg",
+    "src": "portfolio/full/sertifikat/instal.jpg",
+    "prev": "foto1",
+    "next": "foto3"
+  },
+  {
+    "id": "foto3",
+    "nama": "Jaringan",
+    "urlFull": "portfolio/thumb/sertifikat/jaringan.jpg",
+    "src": "portfolio/full/sertifikat/jaringan.jpg",
+    "prev": "foto2",
+    "next": "foto4"
+  },
+  {
+    "id": "foto4",
+    "nama": "JAVA",
+    "urlFull": "portfolio/thumb/sertifikat/java.jpg",
+    "src": "portfolio/full/sertifikat/java.jpg",
+    "prev": "foto3",
+    "next": "foto5"
+  },
+  {
+    "id": "foto5",
+    "nama": "Merakit PC",
+    "urlFull": "portfolio/thumb/sertifikat/rakit.jpg",
+    "src": "portfolio/full/sertifikat/rakit.jpg",
+    "prev": "foto4",
+    "next": "foto6"
+  },
+  {
+    "id": "foto7",
+    "nama": "Elementary",
+    "urlFull": "portfolio/thumb/sertifikat/elementary.png",
+    "src": "portfolio/full/sertifikat/elementary.png",
+    "prev": "foto6",
+    "next": "foto8"
+  },
+  {
+    "id": "foto8",
+    "nama": "Qowa'it",
+    "urlFull": "portfolio/thumb/sertifikat/qowait.png",
+    "src": "portfolio/full/sertifikat/qowait.png",
+    "prev": "foto7",
+    "next": "foto9"
+  },
+  {
+    "id": "foto9",
+    "nama": "Management",
+    "urlFull": "portfolio/thumb/sertifikat/manage.png",
+    "src": "portfolio/full/sertifikat/manage.png",
+    "prev": "foto8",
+    "next": "foto10"
+  },
+  {
+    "id": "foto10",
+    "nama": "Roti Ganep",
+    "urlFull": "portfolio/thumb/sertifikat/ganep.png",
+    "src": "portfolio/full/sertifikat/ganep.png",
+    "prev": "foto9",
+    "next": "foto11"
+  },
+  {
+    "id": "foto11",
+    "nama": "Sertifikasi",
+    "urlFull": "portfolio/thumb/sertifikat/smk.png",
+    "src": "portfolio/full/sertifikat/smk.png",
+    "prev": "foto10",
+    "next": "foto1"
+  }
+]

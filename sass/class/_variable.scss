@@ -1,0 +1,34 @@
+// font
+@font-face {
+  font-family: "DM Serif Text";
+  src: url("../../font/DMSerifText-Italic.ttf") format(truetype);
+}
+@font-face {
+  font-family: "jetBrains mono";
+  src: url("../../font/JetBrainsMono-Regular.woff") format(truetype);
+}
+@font-face {
+  font-family: "viga";
+  src: url("../../font/Viga-Regular.ttf") format(truetype);
+}
+$serif: "DM Serif Text";
+$jetb: "jetBrains mono";
+$viga: "viga";
+$harlow: "harlow solid";
+// color
+$color1: #9999cc;
+$color2: #99ccff;
+$color3: #ccccff;
+$color4: #ffffcc;
+$color5: #ccffcc;
+$color6: #ffccff;
+
+// shadow
+$shadow: rgb(71, 70, 70);
+$box: 0px 11px 19px -8px $shadow;
+$box2: 0px 7px 27px 2px rgba(0, 0, 0, 0.26);
+$box3: 0px 0px 44px -11px rgba(0, 0, 0, 0.75);
+
+// border
+$bulat: 200px;
+$bulat2: 300px;

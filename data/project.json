@@ -1,0 +1,173 @@
+[
+  {
+    "id": "gmbr-1",
+    "nama": "Tokoku",
+    "urlFull": "portfolio/thumb/project/t1.png",
+    "src": "portfolio/full/project/t1.png",
+    "dt": "Halaman Product yang di inputkan oleh seller",
+    "prev": "gmbr-19",
+    "next": "gmbr-2"
+  },
+  {
+    "id": "gmbr-2",
+    "nama": "Tokoku",
+    "urlFull": "portfolio/thumb/project/t2.png",
+    "src": "portfolio/full/project/t2.png",
+    "dt": "Halaman cart, jika buyer mengklik checkout makan akan di arahkan ke halaman ini (note: jika buyer sudah login)",
+    "prev": "gmbr-1",
+    "next": "gmbr-3"
+  },
+  {
+    "id": "gmbr-3",
+    "nama": "Tokoku",
+    "urlFull": "portfolio/thumb/project/t3.png",
+    "src": "portfolio/full/project/t3.png",
+    "dt": "Halaman dashboard buyer",
+    "prev": "gmbr-2",
+    "next": "gmbr-4"
+  },
+  {
+    "id": "gmbr-4",
+    "nama": "Tokoku",
+    "urlFull": "portfolio/thumb/project/t4.png",
+    "src": "portfolio/full/project/t4.png",
+    "dt": "Halaman Amin untuk administrator",
+    "prev": "gmbr-3",
+    "next": "gmbr-5"
+  },
+  {
+    "id": "gmbr-5",
+    "nama": "Tokoku",
+    "urlFull": "portfolio/thumb/project/t5.png",
+    "src": "portfolio/full/project/t5.png",
+    "dt": "Halaman Profile setiap seller, di Profile page terdapat total penjualan income dll.",
+    "prev": "gmbr-4",
+    "next": "gmbr-6"
+  },
+  {
+    "id": "gmbr-6",
+    "nama": "Laundry",
+    "urlFull": "portfolio/thumb/project/l1.png",
+    "src": "portfolio/full/project/l1.png",
+    "dt": "Halaman Login E-laundry, (note: logo dari freeepic)",
+    "prev": "gmbr-5",
+    "next": "gmbr-7"
+  },
+  {
+    "id": "gmbr-7",
+    "nama": "Laundry",
+    "urlFull": "portfolio/thumb/project/l2.png",
+    "src": "portfolio/full/project/l2.png",
+    "dt": "Halaman dashboard e laundry",
+    "prev": "gmbr-6",
+    "next": "gmbr-8"
+  },
+  {
+    "id": "gmbr-8",
+    "nama": "Laundry",
+    "urlFull": "portfolio/thumb/project/l3.png",
+    "src": "portfolio/full/project/l3.png",
+    "dt": "Halaman Data laundry, terdapat macam-macam menu export dan bulk delete menggunakan datatable serverside",
+    "prev": "gmbr-7",
+    "next": "gmbr-9"
+  },
+  {
+    "id": "gmbr-9",
+    "nama": "Laundry",
+    "urlFull": "portfolio/thumb/project/l4.png",
+    "src": "portfolio/full/project/l4.png",
+    "dt": "Hasil export pdf",
+    "prev": "gmbr-8",
+    "next": "gmbr-10"
+  },
+  {
+    "id": "gmbr-10",
+    "nama": "Laundry",
+    "urlFull": "portfolio/thumb/project/l5.png",
+    "src": "portfolio/full/project/l5.png",
+    "dt": "Hasil export Excel",
+    "prev": "gmbr-9",
+    "next": "gmbr-11"
+  },
+  {
+    "id": "gmbr-11",
+    "nama": "Laundry",
+    "urlFull": "portfolio/thumb/project/l6.png",
+    "src": "portfolio/full/project/l6.png",
+    "dt": "Invoice penjualan dengan modal bootstrap lalu bisa di print",
+    "prev": "gmbr-10",
+    "next": "gmbr-12"
+  },
+  {
+    "id": "gmbr-12",
+    "nama": "Laundry",
+    "urlFull": "portfolio/thumb/project/l7.png",
+    "src": "portfolio/full/project/l7.png",
+    "dt": "Hasil Print invoice E-laundry",
+    "prev": "gmbr-11",
+    "next": "gmbr-13"
+  },
+  {
+    "id": "gmbr-13",
+    "nama": "Laravel",
+    "urlFull": "portfolio/thumb/project/r1.png",
+    "src": "portfolio/full/project/r1.png",
+    "dt": "halaman admin laravel website",
+    "prev": "gmbr-12",
+    "next": "gmbr-14"
+  },
+  {
+    "id": "gmbr-14",
+    "nama": "laravel",
+    "urlFull": "portfolio/thumb/project/r2.png",
+    "src": "portfolio/full/project/r2.png",
+    "dt": "Halaman detail informasi siswa yang di situ terdapat char nilai daftar nilai yang bisa langsung edit dengan bootstrap editable.",
+    "prev": "gmbr-13",
+    "next": "gmbr-15"
+  },
+  {
+    "id": "gmbr-15",
+    "nama": "Usahaku",
+    "urlFull": "portfolio/thumb/project/u1.png",
+    "src": "portfolio/full/project/u1.png",
+    "dt": "ini aplikasi untuk memudahkan saya memanage penjualan saya,(dashboard)",
+    "prev": "gmbr-14",
+    "next": "gmbr-16"
+  },
+  {
+    "id": "gmbr-16",
+    "nama": "Usahaku",
+    "urlFull": "portfolio/thumb/project/u2.png",
+    "src": "portfolio/full/project/u2.png",
+    "dt": "menggunakan datatable serverside,bulk detele",
+    "prev": "gmbr-15",
+    "next": "gmbr-17"
+  },
+  {
+    "id": "gmbr-17",
+    "nama": "Native",
+    "urlFull": "portfolio/thumb/project/g1.png",
+    "src": "portfolio/full/project/g1.png",
+    "dt": "menggunakan datatable serverside,bulk detele",
+    "prev": "gmbr-16",
+    "next": "gmbr-18"
+  },
+  {
+    "id": "gmbr-18",
+    "nama": "Native",
+    "urlFull": "portfolio/thumb/project/g2.png",
+    "src": "portfolio/full/project/g2.png",
+    "dt": "firts web aplication with php native dan bootstrap",
+    "prev": "gmbr-17",
+    "next": "gmbr-19"
+  },
+  {
+    "id": "gmbr-19",
+    "nama": "Native",
+    "urlFull": "portfolio/thumb/project/g3.png",
+    "src": "portfolio/full/project/g3.png",
+    "dt": "firts web aplication with php native dan bootstrap",
+    "prev": "gmbr-18",
+    "next": "gmbr-1"
+  }
+]
